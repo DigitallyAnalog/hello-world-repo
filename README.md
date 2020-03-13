@@ -1,2 +1,4 @@
 # hello-world-repo
-My practice repo
+Hi there!
+
+I'm an engineering graduate and budding coding enthusiast.
